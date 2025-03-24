@@ -10,9 +10,9 @@ Key Analyses:
 -  Daily Sales Trend
 -  Average Order Value
 
-
-- Tools Used:
+ Tools Used:
+ 
 - Databricks Community Edition
 - PySpark / SQL
 - CSV File as Data Source
-- 
+ 
